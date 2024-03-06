@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[https://scholar.google.co.in/citations?user=KCnOwIoAAAAJ&hl=en](./another-page.html).
-
 
 ## Professional Experience
 
@@ -21,6 +19,8 @@ layout: default
 | Doctor of Philosophy   (Ph.D.)   |Indian Institute of Technology, Rupnagar | 07/2018--09/2022|
 | Masters of Technology  (M.Tech)  |Amrita Vishwa Vidhyapeetham, Coimbatore  | 07/2016--07/2018|
 | Bachelor of Technology (B.E)     |RGPV, Bhopal                             | 07/2011--07/2015|
+
+[Details on Projects (During Ph.D.)](./Ph.D_Projects.html).
 
 ## Research Publications
 - **Peer Reviewed Accepted And In-Press IEEE Transactions/Journals**
