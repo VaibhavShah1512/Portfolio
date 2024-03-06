@@ -8,8 +8,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
 ## Professional Experience
-|:-------------|:---------------|
-|Lead Engineer |03/2024--Present|
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| Lead Engineer| 03/2024--Present  |       |
 
 *   Senior Engineer
 
