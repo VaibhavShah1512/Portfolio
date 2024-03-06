@@ -8,18 +8,21 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
 ## Professional Experience
-
-*   Lead Engineer
+|:-------------|:---------------|
+|Lead Engineer |03/2024--Present|
 
 *   Senior Engineer
 
 ## Education
 
-* Ph.D.
-  Indian Institute of Technology, Rupnagar
-  Thesis Topic -- 
+* **Ph.D.**
+- Indian Institute of Technology, Rupnagar
+  - Thesis Topic -- 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+  * **Masters in Technology (specializtion in power electronics)**
+- Amrita Vishwa Vidhyapeetham, Coimbatore
+  - Thesis Topic -- 
+
 
 ## Header 2
 
