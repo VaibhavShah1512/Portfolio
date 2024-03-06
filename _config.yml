@@ -1,6 +1,6 @@
 title: Vaibhav Shah
 logo: /assets/img/VaibhavShah.png
 description: Portfolio.
-show_downloads: true
+show_downloads: False
 google_analytics:
 theme: jekyll-theme-minimal
