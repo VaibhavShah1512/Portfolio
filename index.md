@@ -9,6 +9,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## Professional Experience
 
+- Carrier Technologies India Limited
+
 | Position       |                   |       |
 |:---------------|:------------------|:------|
 | Lead Engineer  |                   | 03/2024--Present|
@@ -16,13 +18,12 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## Education
 
-* **Ph.D.**
-- Indian Institute of Technology, Rupnagar
-  - Thesis Topic -- 
+| Degree                        |Institute                                |Year       |
+|:------------------------------|:----------------------------------------|:----------|
+| Doctor of Philosophy (Ph.D.)  |Indian Institute of Technology, Rupnagar | 07/2018--09/2022|
+| Masters in Technology (M.Tech)|Amrita Vishwa Vidhyapeetham, Coimbatore  | 07/2016--07/2018|
 
-  * **Masters in Technology (specializtion in power electronics)**
-- Amrita Vishwa Vidhyapeetham, Coimbatore
-  - Thesis Topic -- 
+
 
 
 ## Header 2
