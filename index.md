@@ -2,9 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
+[https://scholar.google.co.in/citations?user=KCnOwIoAAAAJ&hl=en](./another-page.html).
 
 
 ## Professional Experience
