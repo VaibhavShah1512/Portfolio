@@ -16,11 +16,11 @@ layout: default
 
 ## Education
 
-| Degree                        |Institute                                |Year       |
-|:------------------------------|:----------------------------------------|:----------|
-| Doctor of Philosophy  (Ph.D.) |Indian Institute of Technology, Rupnagar | 07/2018--09/2022|
-| Masters of Technology (M.Tech)|Amrita Vishwa Vidhyapeetham, Coimbatore  | 07/2016--07/2018|
-| Bachelor of Technology(B.E)   |RGPV, Bhopal                             | 07/2011--07/2015|
+| Degree                           |Institute                                |Year       |
+|:---------------------------------|:----------------------------------------|:----------|
+| Doctor of Philosophy   (Ph.D.)   |Indian Institute of Technology, Rupnagar | 07/2018--09/2022|
+| Masters of Technology  (M.Tech)  |Amrita Vishwa Vidhyapeetham, Coimbatore  | 07/2016--07/2018|
+| Bachelor of Technology (B.E)     |RGPV, Bhopal                             | 07/2011--07/2015|
 
 ## Research Publications
 - **Peer Reviewed Accepted And In-Press IEEE Transactions/Journals**
