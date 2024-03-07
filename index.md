@@ -38,7 +38,7 @@ Education
 
 - **Peer Reviewed Accepted And In-Press IEEE Transactions/Journals**
 
-1.	**V. Shah** and S. Payami, "An Integrated Driving/Charging 4-Phase Switched Reluctance Motor Drive with Reduced Current Sensors for Electric Vehicle Application," in IEEE Journal of Emerging and Selected Topics in Power Electronics, doi: 10.1109/JESTPE.2021.3120468.
+1.	**V. Shah** and S. Payami, "An Integrated Driving/Charging 4-Phase Switched Reluctance Motor Drive with Reduced Current Sensors for Electric Vehicle Application," in IEEE Journal of Emerging and Selected Topics in Power Electronics, doi: 10.1109/JESTPE.2021.3120468.|
 <a href="https://ieeexplore.ieee.org/document/9576067">IEEE link</a> |
 2.	**V. Shah** and S. Payami, "Fully Integrated Multi-Level Power Converter for SRM Drive with Charging Capabilities (G2V) for Electric Vehicle Application," in IEEE Journal of Emerging and Selected Topics in Industrial Electronics, 2022, doi: 10.1109/JESTIE.2022.3190794.
 3.	**V. Shah**, G. Kumawat and S. Payami, "Phase Current Reconstruction Technique for 4-Phase Switched Reluctance Generator with Two Current Sensors," in IEEE Journal of Emerging and Selected Topics in Power Electronics, 2022, doi: 10.1109/JESTPE.2022.3217693.
