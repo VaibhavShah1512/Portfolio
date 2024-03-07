@@ -3,7 +3,7 @@ layout: default
 ---
 
 ```
-Professional Experience
+**Professional Experience**
 ```
 - Carrier Technologies India Limited
 
