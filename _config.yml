@@ -1,6 +1,14 @@
-title: Vaibhav Shah
+title: <p align="center"> Vaibhav Shah </p>
 logo: /assets/img/VaibhavShah.png
-description: Portfolio.
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/vaibhav-shah-0b8466154/">LinkedIn</a> |
+  <a href="https://scholar.google.co.in/citations?user=KCnOwIoAAAAJ&hl=en">Google Scholar</a>
+
+
 show_downloads: False
 google_analytics:
+
 theme: jekyll-theme-minimal
