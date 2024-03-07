@@ -1,5 +1,4 @@
----
-layout: default
+# Basic Information
 ---
 
 ```
@@ -36,7 +35,7 @@ Education
 ```
  Research Publications
  ```
- 
+
 - **Peer Reviewed Accepted And In-Press IEEE Transactions/Journals**
 
 1.	**V. Shah** and S. Payami, "An Integrated Driving/Charging 4-Phase Switched Reluctance Motor Drive with Reduced Current Sensors for Electric Vehicle Application," in IEEE Journal of Emerging and Selected Topics in Power Electronics, doi: 10.1109/JESTPE.2021.3120468.
@@ -45,7 +44,7 @@ Education
 4.	**V. Shah** and S. Payami, "Integrated Converter with G2V, V2G, and DC/V2V Charging Capabilities for Switched Reluctance Motor Drive-Train Based EV Application," in IEEE Transactions on Industry Applications, doi: 10.1109/TIA.2023.3242636.
 5.	**V. Shah** and S. Payami, “Switched Reluctance Motor Drive-train with Fully Integrated Battery Charger and Instantaneous Zero Charging Torque for Electric Transportation” in IEEE Transactions on Electrified Transportation, doi: 10.1109/TTE.2023.3308893.
 
-- **Peer Reviewed Conferences And In-Press IEEE Transactions/Journals**
+- **Peer Reviewed Conferences And In-Press**
 
 6.	**V. Shah**, M. Alam and S. Payami, "High Torque/Ampere Direct Torque Control of Switched Reluctance Motor Drives," 2019 National Power Electronics Conference (NPEC), 2019, pp. 1-6, doi: 10.1109/NPEC47332.2019.9034777. 
 7.	**V. Shah**, M. Alam and S. Payami, "A Novel Direct Torque Control Scheme for High-Speed Control of Switched Reluctance Motor Using 4-Level Torque Controller," The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020), 2020, pp. 966-971, doi: 10.1049/icp.2021.0974
