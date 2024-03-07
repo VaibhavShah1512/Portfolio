@@ -5,7 +5,7 @@ layout: default
 ```
 Project-1
 ```
-<center><img src="images/Proejct_1.jpg"/></center>
+<center><img src="images/Project_1.jpg"/></center>
 
 
 
