@@ -2,9 +2,9 @@
 layout: default
 ---
 
-
-## Professional Experience
-
+```
+Professional Experience
+```
 - Carrier Technologies India Limited
 
 | Position       |                   |       |
@@ -12,8 +12,9 @@ layout: default
 | Lead Engineer  |                   | 03/2024--Present|
 | Senior Engineer|                   | 09/2022--03/2024|
 
-## Education [Persuing]
-
+```
+Education [Persuing]
+```
 | Degree                               |Institute                                                    |Year       |
 |:-------------------------------------|:------------------------------------------------------------|:----------|
 | Master of Science                    |Liverpool John Moores University                             |                 |
@@ -54,6 +55,10 @@ layout: default
 16.	**V. Shah**, G. Kumawat and S. Payami, "Solar Powered Electric Drive-Train With Integrated Multifunctional Dual Power On-Board Charger Incorporating N-phase SRM," 2022 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Jaipur, India, 2022, pp. 1-5, doi: 10.1109/PEDES56012.2022.10080481.
 17.	G. Kumawat, **V. Shah** and S. Payami, "A Universal-Input On-Board Charger Integrated Converter for SRM Drive Targeting Electric Vehicle Application," 2022 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Jaipur, India, 2022, pp. 1-5, doi: 10.1109/PEDES56012.2022.10080831.
 18.	G. Kumawat, **V. Shah** and S. Payami, "Analytical Method for Optimal Control of Switched Reluctance Generator," 2022 IEEE 10th Power India International Conference (PIICON), New Delhi, India, 2022, pp. 1-6, doi: 10.1109/PIICON56320.2022.10045169.
+19.	**V. Shah** and A. Vijayakumari, "Field Oriented Control of Surface Mount Permanent Magnet Synchronous Machine with Non Linear Observer for Continuous Rotor Position Estimation," 2018 3rd International Conference for Convergence in Technology (I2CT), Pune, India, 2018, pp. 1-6, doi: 10.1109/I2CT.2018.8529529.
+20.	**V. Shah** and A. Vijayakumari, "Regression based-programmable optimal controller for induction machine," 2017 International Conference on Technological Advancements in Power and Energy ( TAP Energy), Kollam, India, 2017, pp. 1-6, doi: 10.1109/TAPENERGY.2017.8397278.
+21.	**V. Shah** and K. Prakash N., "FPGA Implementation of Sensorless Field Oriented Current Control of Induction Machine," 2017 IEEE International Conference on Computational Intelligence and Computing Research (ICCIC), Coimbatore, India, 2017, pp. 1-5, doi: 10.1109/ICCIC.2017.8524311
+
 
 
 ## Header 2
