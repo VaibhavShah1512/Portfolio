@@ -3,7 +3,7 @@ layout: default
 ---
 
 ```
-**Professional Experience**
+Professional Experience
 ```
 - Carrier Technologies India Limited
 
@@ -15,13 +15,15 @@ layout: default
 ```
 Education [Persuing]
 ```
+
 | Degree                               |Institute                                                    |Year       |
 |:-------------------------------------|:------------------------------------------------------------|:----------|
 | Master of Science                    |Liverpool John Moores University                             |                 |
 | Executive Post Graduation Programme  |International Institute of Information Technology, Bangalore | 09/2022--Present|
 
-
-## Education
+```
+Education
+```
 
 | Degree                           |Institute                                |Year       |
 |:---------------------------------|:----------------------------------------|:----------|
@@ -31,7 +33,10 @@ Education [Persuing]
 
 [Details on Projects (During Ph.D.)](./Ph.D_Projects.html).
 
-## Research Publications
+```
+ Research Publications
+ ```
+ 
 - **Peer Reviewed Accepted And In-Press IEEE Transactions/Journals**
 
 1.	**V. Shah** and S. Payami, "An Integrated Driving/Charging 4-Phase Switched Reluctance Motor Drive with Reduced Current Sensors for Electric Vehicle Application," in IEEE Journal of Emerging and Selected Topics in Power Electronics, doi: 10.1109/JESTPE.2021.3120468.
