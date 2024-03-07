@@ -12,13 +12,21 @@ layout: default
 | Lead Engineer  |                   | 03/2024--Present|
 | Senior Engineer|                   | 09/2022--03/2024|
 
+## Education [Persuing]
+
+| Degree                               |Institute                                                    |Year       |
+|:-------------------------------------|:------------------------------------------------------------|:----------|
+| Master of Science                    |Liverpool John Moores University                             |                 |
+| Executive Post Graduation Programme  |International Institute of Information Technology, Bangalore | 09/2022--Present|
+
+
 ## Education
 
 | Degree                           |Institute                                |Year       |
 |:---------------------------------|:----------------------------------------|:----------|
 | Doctor of Philosophy   (Ph.D.)   |Indian Institute of Technology, Rupnagar | 07/2018--09/2022|
 | Masters of Technology  (M.Tech)  |Amrita Vishwa Vidhyapeetham, Coimbatore  | 07/2016--07/2018|
-| Bachelor of Technology (B.E)     |RGPV, Bhopal                             | 07/2011--07/2015|
+| Bachelor of Technology (B.E)     |SVVV Indore, Affiliated to RGPV, Bhopal  | 07/2011--07/2015|
 
 [Details on Projects (During Ph.D.)](./Ph.D_Projects.html).
 
