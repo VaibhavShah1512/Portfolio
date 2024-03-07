@@ -39,15 +39,15 @@ Education
 - **Peer Reviewed Accepted And In-Press IEEE Transactions/Journals**
 
 1.	**V. Shah** and S. Payami, "An Integrated Driving/Charging 4-Phase Switched Reluctance Motor Drive with Reduced Current Sensors for Electric Vehicle Application," in IEEE Journal of Emerging and Selected Topics in Power Electronics, doi: 10.1109/JESTPE.2021.3120468.|
-[<a href="https://ieeexplore.ieee.org/document/9576067">IEEE link</a> ]
+[<a href="https://ieeexplore.ieee.org/document/9576067">IEEE link</a>]
 2.	**V. Shah** and S. Payami, "Fully Integrated Multi-Level Power Converter for SRM Drive with Charging Capabilities (G2V) for Electric Vehicle Application," in IEEE Journal of Emerging and Selected Topics in Industrial Electronics, 2022, doi: 10.1109/JESTIE.2022.3190794.
-<a href="https://ieeexplore.ieee.org/document/9829279">IEEE link</a> 
+[<a href="https://ieeexplore.ieee.org/document/9829279">[IEEE link</a>] 
 3.	**V. Shah**, G. Kumawat and S. Payami, "Phase Current Reconstruction Technique for 4-Phase Switched Reluctance Generator with Two Current Sensors," in IEEE Journal of Emerging and Selected Topics in Power Electronics, 2022, doi: 10.1109/JESTPE.2022.3217693.
-<a href="https://ieeexplore.ieee.org/document/9931169">IEEE link</a>
+<a href="https://ieeexplore.ieee.org/document/9931169">[IEEE link</a>]
 4.	**V. Shah** and S. Payami, "Integrated Converter with G2V, V2G, and DC/V2V Charging Capabilities for Switched Reluctance Motor Drive-Train Based EV Application," in IEEE Transactions on Industry Applications, doi: 10.1109/TIA.2023.3242636.
-<a href="https://ieeexplore.ieee.org/document/10038541">IEEE link</a>
+<a href="https://ieeexplore.ieee.org/document/10038541">[IEEE link</a>]
 5.	**V. Shah** and S. Payami, “Switched Reluctance Motor Drive-train with Fully Integrated Battery Charger and Instantaneous Zero Charging Torque for Electric Transportation” in IEEE Transactions on Electrified Transportation, doi: 10.1109/TTE.2023.3308893.
-<a href="https://ieeexplore.ieee.org/abstract/document/10234554">IEEE link</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/10234554">[IEEE link</a>]
 
 - **Peer Reviewed Conferences And In-Press**
 
@@ -67,113 +67,3 @@ Education
 19.	**V. Shah** and A. Vijayakumari, "Field Oriented Control of Surface Mount Permanent Magnet Synchronous Machine with Non Linear Observer for Continuous Rotor Position Estimation," 2018 3rd International Conference for Convergence in Technology (I2CT), Pune, India, 2018, pp. 1-6, doi: 10.1109/I2CT.2018.8529529.
 20.	**V. Shah** and A. Vijayakumari, "Regression based-programmable optimal controller for induction machine," 2017 International Conference on Technological Advancements in Power and Energy ( TAP Energy), Kollam, India, 2017, pp. 1-6, doi: 10.1109/TAPENERGY.2017.8397278.
 21.	**V. Shah** and K. Prakash N., "FPGA Implementation of Sensorless Field Oriented Current Control of Induction Machine," 2017 IEEE International Conference on Computational Intelligence and Computing Research (ICCIC), Coimbatore, India, 2017, pp. 1-5, doi: 10.1109/ICCIC.2017.8524311
-
-
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
