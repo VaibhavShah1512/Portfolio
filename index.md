@@ -17,8 +17,8 @@ Education [Persuing]
 
 | Degree                               |Institute                                                    |Year       |
 |:-------------------------------------|:------------------------------------------------------------|:----------|
-| Master of Science                    |Liverpool John Moores University                             |                 |
-| Executive Post Graduation Programme  |International Institute of Information Technology, Bangalore | 09/2022--Present|
+| Master of Science                    |Liverpool John Moores University, Liverpool, United Kingdom      |                 |
+| Executive Post Graduation Programme  |International Institute of Information Technology, Bangalore, India | 09/2022--Present|
 
 ```
 Education
@@ -26,9 +26,9 @@ Education
 
 | Degree                           |Institute                                |Year       |
 |:---------------------------------|:----------------------------------------|:----------|
-| Doctor of Philosophy   (Ph.D.)   |Indian Institute of Technology, Rupnagar | 07/2018--09/2022|
-| Masters of Technology  (M.Tech)  |Amrita Vishwa Vidhyapeetham, Coimbatore  | 07/2016--07/2018|
-| Bachelor of Technology (B.E)     |SVVV Indore, Affiliated to RGPV, Bhopal  | 07/2011--07/2015|
+| Doctor of Philosophy   (Ph.D.)   |Indian Institute of Technology, Rupnagar, India| 07/2018--09/2022|
+| Masters of Technology  (M.Tech)  |Amrita Vishwa Vidhyapeetham, Coimbatore, India  | 07/2016--07/2018|
+| Bachelor of Technology (B.E)     |SVVV Indore, Affiliated to RGPV, Bhopal, India  | 07/2011--07/2015|
 
 
 ```
