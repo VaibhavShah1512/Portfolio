@@ -1,15 +1,3 @@
-header {
-  img {
-    border-radius: 50%;
-  }
-  p {
-    text-align: center;
-  }
-  p.view {
-    text-align: left;
-  }
-}
-
 
 
 # Basic Information
