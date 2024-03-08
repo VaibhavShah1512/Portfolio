@@ -72,7 +72,7 @@ Project-1
 ```
 Abstract-- The paper proposes a novel current reconstruction technique with two current sensors to reconstruct the phase currents in a 4-phase switched reluctance generator (SRG). Conventionally with the asymmetric half-bridge converter (AHB), four current sensors are employed, one in each phase for measuring the phase currents in SRG. In the proposed work, the AHB converter's DC bus is split into the excitation bus and the generating bus. Two current sensors are employed, first in the excitation bus, measuring the energization current of the respective active phase during phase excitation. And the second current sensor is placed in the generating bus, measuring the generating current. The switching functions of the AHB converter are re-designed such that the phase current during free-wheeling and de-energization flows through the generating bus. The proposed current reconstruction technique using linear algebraic equations facilitates the reconstruction of phase currents from two current sensors only. This is the first time a paper experimentally verifies the proposed phase current reconstruction technique for 4-phase SRG, wherein multiple phases are conducting simultaneously. Also, during power electronics switch fault the proposed current reconstruction method successfully reconstructs healthy phase currents after isolating the faulty phase. 
 ---
-<center><img src="assets/img/Project_1.a.tif"/></center>
+<center><img src="assets/img/Project_1.a.jpg"/></center>
 ---
 ---
 <center><img src="assets/img/Project_1.jpg"/></center>
