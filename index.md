@@ -30,7 +30,6 @@ Education
 | Masters of Technology  (M.Tech)  |Amrita Vishwa Vidhyapeetham, Coimbatore  | 07/2016--07/2018|
 | Bachelor of Technology (B.E)     |SVVV Indore, Affiliated to RGPV, Bhopal  | 07/2011--07/2015|
 
-[Details on Projects (During Ph.D.)](./Ph.D_Projects.html).
 
 ```
  Research Publications
