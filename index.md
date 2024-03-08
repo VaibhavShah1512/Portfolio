@@ -1,3 +1,26 @@
+<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
+/>
+  </head>
+
+  <body>
+     <nav class="nav">
+        <div class="container">
+            <h1 class="logo"><a href="index.htm"></a></h1>
+            <ul>
+                <li><a href="index.html" class="current">Home</a></li>
+                <li><a class="link" href="#about" data-scroll>About Me</a></li>
+                <li><a class="link" href="#skills" data-scroll>Skills</a></li>
+                <li><a class="link"  href="#projects" data-scroll>Projects</a></li>
+                <li><a class="link"  href="#contact" data-scroll>Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div id="particles-js">
+
+
 # Basic Information
 ---
 
