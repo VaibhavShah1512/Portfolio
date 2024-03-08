@@ -6,7 +6,7 @@ layout: default
 Project-1
 ```
 ---
-<center><img src="/assets/img/logo.png"/></center>
+<center><img src="/assets/img/logo.png"></center>
 ---
 
 
