@@ -72,5 +72,5 @@ Education
 Project-1
 ```
 ---
-<center><img src="/assests/img/Project_1.jpg"/></center>
+<center><img src="images/Project_1.jpg"/></center>
 ---
