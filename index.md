@@ -67,3 +67,10 @@ Education
 19.	**V. Shah** and A. Vijayakumari, "Field Oriented Control of Surface Mount Permanent Magnet Synchronous Machine with Non Linear Observer for Continuous Rotor Position Estimation," 2018 3rd International Conference for Convergence in Technology (I2CT), Pune, India, 2018, pp. 1-6, doi: 10.1109/I2CT.2018.8529529.
 20.	**V. Shah** and A. Vijayakumari, "Regression based-programmable optimal controller for induction machine," 2017 International Conference on Technological Advancements in Power and Energy ( TAP Energy), Kollam, India, 2017, pp. 1-6, doi: 10.1109/TAPENERGY.2017.8397278.
 21.	**V. Shah** and K. Prakash N., "FPGA Implementation of Sensorless Field Oriented Current Control of Induction Machine," 2017 IEEE International Conference on Computational Intelligence and Computing Research (ICCIC), Coimbatore, India, 2017, pp. 1-5, doi: 10.1109/ICCIC.2017.8524311
+
+```
+Project-1
+```
+---
+<center><img src="/assests/img/Project_1.jpg"/></center>
+---
